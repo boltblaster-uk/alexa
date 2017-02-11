@@ -1,0 +1,6 @@
+**/*.properties
+**/*.DS_Store
+**/build
+**/*.gradle/
+**/gradle/
+javac-services.0.log
